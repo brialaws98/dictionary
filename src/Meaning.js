@@ -1,5 +1,5 @@
 import React from "react";
-import "Meaning.css";
+import "./Meaning.css";
   
  export default function Meaning(props) {
     
