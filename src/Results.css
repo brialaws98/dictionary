@@ -1,0 +1,11 @@
+.Results{
+    margin: 20px;
+    padding: 20px;
+}
+.dictionaryWord{
+    color: red;
+    text-transform: capitalize;
+    font-size: 50px;
+    text-align: left; 
+}
+ 
