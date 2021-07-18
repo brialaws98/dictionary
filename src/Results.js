@@ -19,7 +19,6 @@ import Phonetic from "./Phonetic";
               );
             })}
 
-           
             {props.results.meanings.map(function (meaning, index) {
               
               return (

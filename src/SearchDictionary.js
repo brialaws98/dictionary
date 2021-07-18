@@ -26,6 +26,7 @@ import "./Results.css";
     }
       return (
           <div className= "SearchWord">
+         <section className="wordHunt">
               <form onSubmit={search}>
                   <input 
                     type="search"
@@ -38,6 +39,7 @@ import "./Results.css";
                       Search
                   </button>
               </form>
+            </section>
               <Results results={results} />
           </div>
       );
