@@ -1,6 +1,8 @@
 .Results{
     margin: 20px;
     padding: 20px;
+    background-color: rgb(141, 207, 209);
+    max-width:  20px auto;
 }
 .dictionaryWord{
     color: red;

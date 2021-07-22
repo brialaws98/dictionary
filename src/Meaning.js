@@ -14,7 +14,9 @@ import "./Meaning.css";
            return (
                <div key={index}>
                 <p>
-                  <div><strong>Definition:</strong></div>
+                  <div>
+                    <strong>Definition:</strong>
+                  </div>
                   <span className="definitions">
                      {definition.definition}
                    </span>

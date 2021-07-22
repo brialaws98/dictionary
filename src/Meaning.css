@@ -1,10 +1,12 @@
 .Meaning{
     margin: 20px;
     padding: 20px;
-    border: 1px solid black;
+    box-shadow: -21px 16px 19px black;
     border-radius: 20px;
+    background-color: white;
 }
 
 .examples{
     opacity: 0.8;
 }
+
