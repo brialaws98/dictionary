@@ -14,11 +14,9 @@ function App() {
       <footer>
         <strong>
           <a href="https://github.com/brialaws98/dictionary">
-            open source
-
-          </a>
+            open source </a>
         </strong>
-           code by <em>Briana Laws</em>
+            code by <em>Briana Laws</em>
       </footer>
     </div>
   );
