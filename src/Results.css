@@ -28,3 +28,8 @@
 input{
     width: 300px;
 }
+
+.wordExample{
+    opacity: 0.6;
+    text-align: center;
+}

@@ -39,6 +39,9 @@ import "./Results.css";
                       Search
                   </button>
               </form>
+              <div className="wordExample">
+              Example: Sunset, Yogurt, etc.
+              </div>
             </section>
               <Results results={results} />
           </div>
