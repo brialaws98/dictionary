@@ -7,7 +7,7 @@ import "./Phonetic.css"
          <div className="Phonetic">
              <button className="listen">
              <a href={props.phonetic.audio} target="_blank" rel="noreferrer">
-             🔈
+             🔊
              </a>
              </button>
              <br />

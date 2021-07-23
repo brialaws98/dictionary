@@ -36,7 +36,7 @@ import "./Results.css";
                   <button 
                      type= "Submit"
                      className= "btn btn-primary">
-                      Search
+                      🔍📚
                   </button>
               </form>
               <div className="wordExample">
