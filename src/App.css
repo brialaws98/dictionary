@@ -1,12 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&display=swap');
 .Results{
   margin: 20px;
   padding: 20px;
 }
+
 .dictionaryWord{
-  color: red;
-  text-transform: capitalize;
-  font-size: 50px;
-  text-align: left; 
+  font-family: 'Caveat', cursive;
 }
 
 footer{
