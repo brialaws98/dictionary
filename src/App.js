@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <main>
 
-        <SearchDictionary />
+        <SearchDictionary defaultKeyword="sunset" />
         
 
       </main>
